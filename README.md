@@ -14,7 +14,7 @@ PC 起動時に自動で立ち上がり、付箋のように画面端にタス�
 Releases から Setup.exe をダウンロードしてください。
 
 ## スクリーンショット
-  <img width="752" height="554" alt="win_mobile" src="https://github.com/user-attachments/assets/8c251103-57db-43fb-98b2-934ac78566f9" />
+  <img width="300" alt="win_mobile" src="https://github.com/user-attachments/assets/8c251103-57db-43fb-98b2-934ac78566f9" />
 
 
 ## 使用技術
