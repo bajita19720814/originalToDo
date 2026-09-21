@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# SQLite DB (ユーザーデータ)
+tasks.db
