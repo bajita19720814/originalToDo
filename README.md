@@ -1,4 +1,4 @@
-# originalToDo（Windows版 ToDo アプリ）
+# 付箋アプリ（Windows版 ToDo アプリ）
 
 Python（Tkinter）で作った Windows 用の ToDo アプリです。
 PC 起動時に自動で立ち上がり、付箋のように画面端にタスクを表示します。
