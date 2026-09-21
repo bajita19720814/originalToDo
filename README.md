@@ -14,7 +14,8 @@ PC 起動時に自動で立ち上がり、付箋のように画面端にタス�
 Releases から Setup.exe をダウンロードしてください。
 
 ## スクリーンショット
-（ここに画像を貼る）
+  <img width="752" height="554" alt="win_mobile" src="https://github.com/user-attachments/assets/8c251103-57db-43fb-98b2-934ac78566f9" />
+
 
 ## 使用技術
 - Python 3.x
@@ -27,8 +28,5 @@ Releases から Setup.exe をダウンロードしてください。
 1. Setup.exe を実行
 2. インストーラーの指示に従うだけで完了
 
-## License
-MIT License
-
 ## ライセンス
-MIT（必要なら）
+MIT License
